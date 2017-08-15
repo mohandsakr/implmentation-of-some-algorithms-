@@ -1,10 +1,12 @@
 //============================================================================
-//find duplicate on array ;
+//find duplicate on array  this is an algorithm that find the duplicates of an array;
+//it's time complexty is O(n);
 // Name        : find.cpp
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
+//
 //============================================================================
 
 #include <iostream>
